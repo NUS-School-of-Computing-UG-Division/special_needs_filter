@@ -27,3 +27,5 @@ It asks the following questions:
 Provide valid inputs to the prompts and it will create different files for each course according to specification.
 
 **Watch this video for a demo:**
+
+![Demo](https://github.com/NUS-School-of-Computing-UG-Division/special_needs_filter/assets/122341714/60b04126-a823-4845-8d3f-880b1e92a865)
